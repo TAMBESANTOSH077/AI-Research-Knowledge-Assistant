@@ -5,7 +5,6 @@ An AI-powered Research & Knowledge Assistant that enables users to upload PDF do
 ---
 
 
-
 ## 🚀 Features
 
 - 📄 Upload and process PDF documents
