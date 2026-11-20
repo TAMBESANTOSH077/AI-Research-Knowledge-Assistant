@@ -3,8 +3,6 @@
 An AI-powered Research & Knowledge Assistant that enables users to upload PDF documents and ask natural language questions. The system uses Retrieval-Augmented Generation (RAG), Hybrid Search, and Large Language Models (LLMs) to provide accurate, context-aware answers with document citations.
 
 ---
-
-
 ## 🚀 Features
 
 - 📄 Upload and process PDF documents
